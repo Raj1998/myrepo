@@ -1,6 +1,11 @@
 hello 1
 
 Feature 1
+{
+
+    code added in feature 1
+    code deleted in feature 1
+}
 
 Feature 2 - commited in master but not pushed - in cR
 
