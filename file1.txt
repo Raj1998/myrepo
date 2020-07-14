@@ -1,17 +1,17 @@
 hello 1
-
 Feature 1
 {
 
     bode added in feature 1
     code deleted in feature 1
 }
+--------1 n 2 seprt
 
 Feature 2 - commited in master but not pushed - in cR
 
 Feature 3 - 
 {
-    fasdj
+    koio
     sdfjoaj
     initital ( oh my god ... !!! ) code for feature 3
     jfoaiwj
