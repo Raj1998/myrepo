@@ -24,3 +24,5 @@ feature 5 - in CR - oho - a
 
 this is good
 this is bad
+
+this is not good
