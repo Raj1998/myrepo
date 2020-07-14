@@ -7,7 +7,7 @@ Feature 1afsdjfojao sf
 }
 --------1 n 2 seprt
 
-Feature 2 - commited in master but not pushed - in cR
+Feature 2 - commitafsdijif ed in master but not pushed - in cR
 
 Future ewu 3 - 
 {
